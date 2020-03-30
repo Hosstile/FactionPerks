@@ -1,0 +1,5 @@
+name: FactionPerks
+main: us.FactionPerks.FPerks
+version: 1.0
+commands: 
+   fCore:
